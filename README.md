@@ -43,7 +43,7 @@ Este frontend é parte do sistema desenvolvido para a Sujeito Pizzaria, proporci
 ## Como Executar o Projeto Localmente
 
 1. Certifique-se de ter o Node.js e o npm instalados em sua máquina.
-2. Clone este repositório: `git clone https://github.com/seu-usuario/sujeito-pizzaria-frontend.git`
+2. Clone este repositório: `git clone https://github.com/felipergoncalves/Sujeito-Pizzaria-Frontend.git`
 3. Navegue até o diretório do frontend: `cd sujeito-pizzaria-frontend`
 4. Instale as dependências do projeto: `npm install`
 5. Inicie o servidor de desenvolvimento: `npm run dev`
